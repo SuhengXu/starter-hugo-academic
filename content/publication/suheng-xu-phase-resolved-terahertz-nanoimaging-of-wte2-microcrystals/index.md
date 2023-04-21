@@ -1,5 +1,5 @@
 ---
-title: " Suheng Xu Phase-resolved terahertz nanoimaging of  WTe2 microcrystals"
+title: Phase-resolved terahertz nanoimaging of  WTe2 microcrystals
 publication_types:
   - "2"
 authors:
@@ -20,7 +20,8 @@ authors:
   - DN Basov
 doi: https://doi.org/10.1103/PhysRevB.107.155413
 publication: Physical Review B
-abstract: ""
+abstract: We resolved both the Amplitude and phase signal on a WTe2
+  microcrystals using terahertz SNOM that utilizing broadband pulse sources
 draft: false
 featured: false
 image:
