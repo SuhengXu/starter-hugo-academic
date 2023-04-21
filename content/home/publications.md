@@ -15,7 +15,7 @@ content:
     category: ""
     publication_type: ""
     author: ""
-    exclude_featured: false
+    exclude_featured: true
 design:
   view: 3
 ---
