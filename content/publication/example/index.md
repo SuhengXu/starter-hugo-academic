@@ -41,7 +41,7 @@ url_source: ""
 url_video: ""
 title: Nanoimaging and Nanospectroscopy of Polaritons with Time Resolved s-SNOM(2020)
 doi: ""
-featured: false
+featured: true
 tags: []
 projects:
   - example
@@ -49,9 +49,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+  filename: screenshot-2023-04-21-164716.png
 date: 2023-04-21T20:35:50.208Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
