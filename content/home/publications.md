@@ -17,7 +17,7 @@ content:
     author: ""
     exclude_featured: false
 design:
-  view: 1
+  view: 3
 ---
 
 {{% callout note %}}
