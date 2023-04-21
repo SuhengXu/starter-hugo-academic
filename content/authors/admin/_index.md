@@ -26,7 +26,10 @@ education:
   courses:
     - course: BSc in Physics
       institution: Jilin University, China
-      year: 2016
+      year: ""
+    - institution: Columbia University, USA
+      year: ""
+      course: PhD candidate in Physics
 email: ""
 superuser: true
 highlight_name: true
