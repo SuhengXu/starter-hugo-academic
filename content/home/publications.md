@@ -15,9 +15,9 @@ content:
     category: ""
     publication_type: ""
     author: ""
-    exclude_featured: true
+    exclude_featured: false
 design:
-  view: 4
+  view: 2
 ---
 
 {{% callout note %}}
