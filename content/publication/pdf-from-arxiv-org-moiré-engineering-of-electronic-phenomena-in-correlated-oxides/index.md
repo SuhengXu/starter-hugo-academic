@@ -39,7 +39,7 @@ abstract: Moiré engineering has recently emerged as an effective approach to
 draft: false
 featured: false
 image:
-  filename: moire.png
+  filename: FEATURED.png
   focal_point: Smart
   preview_only: true
 date: 2020-04-21T21:19:00.000Z

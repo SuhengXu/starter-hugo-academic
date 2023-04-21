@@ -7,7 +7,7 @@ title: All Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 0
   offset: 0
   order: desc
   filters:
@@ -17,7 +17,7 @@ content:
     author: ""
     exclude_featured: false
 design:
-  view: 2
+  view: 3
 ---
 
 {{% callout note %}}
