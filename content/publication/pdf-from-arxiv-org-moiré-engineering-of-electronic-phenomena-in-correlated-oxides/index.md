@@ -42,5 +42,5 @@ image:
   filename: moire.png
   focal_point: Smart
   preview_only: false
-date: 2023-04-21T21:19:18.835Z
+date: 2020-04-21T21:19:00.000Z
 ---
