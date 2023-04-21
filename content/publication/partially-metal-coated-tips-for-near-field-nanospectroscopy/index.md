@@ -12,7 +12,7 @@ authors:
   - M Mumtaz Qazilbash
   - Mengkun Liu
 doi: https://doi.org/10.1103/PhysRevApplied.15.014048
-publication: Physical Review Applied(2021)
+publication: Physical Review Applied
 abstract: >-
   Scanning probes with functional optical responses are key components of
   scanning near-field optical microscopes. For nanospectroscopy performed at IR
@@ -31,5 +31,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-04-21T22:28:17.886Z
+date: 2021-04-21T22:28:17.886Z
 ---

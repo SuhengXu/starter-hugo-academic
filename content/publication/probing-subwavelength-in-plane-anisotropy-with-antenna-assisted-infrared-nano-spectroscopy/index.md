@@ -27,7 +27,7 @@ authors:
   - Susanne C Kehr
   - Mengkun Liu
 doi: https://doi.org/10.1038/s41467-021-22844-3
-publication: Nature communications(2021)
+publication: Nature communications
 abstract: Infrared nano-spectroscopy based on scattering-type scanning
   near-field optical microscopy (s-SNOM) is commonly employed to probe the
   vibrational fingerprints of materials at the nanometer length scale. However,
@@ -52,5 +52,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-04-21T22:36:44.718Z
+date: 2021-04-21T22:36:44.718Z
 ---
