@@ -7,7 +7,7 @@ title: Featured Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 0
+  count: 1
   filters:
     author: ""
     category: ""
