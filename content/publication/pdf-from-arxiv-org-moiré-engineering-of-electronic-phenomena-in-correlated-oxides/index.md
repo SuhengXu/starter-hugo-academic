@@ -1,6 +1,5 @@
 ---
-title: " [PDF] from arxiv.org Moiré engineering of electronic phenomena in
-  correlated oxides"
+title: Moiré engineering of electronic phenomena in correlated oxides
 publication_types:
   - "2"
 authors:
@@ -22,6 +21,7 @@ authors:
   - Mengkun Liu
   - Changgan Zeng
 doi: https://doi.org/10.1038/s41567-020-0865-1
+publication: Nature Physics(2020)
 abstract: Moiré engineering has recently emerged as an effective approach to
   control quantum phenomena in condensed matter systems1,2,3,4,5,6. In van der
   Waals heterostructures, moiré patterns can be formed by lattice misorientation
