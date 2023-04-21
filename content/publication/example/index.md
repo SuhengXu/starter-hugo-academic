@@ -39,7 +39,7 @@ url_source: ""
 url_video: ""
 title: Nanoimaging and Nanospectroscopy of Polaritons with Time Resolved s-SNOM
 doi: https://doi.org/10.1002/adom.201901042
-featured: true
+featured: false
 tags: []
 projects:
   - example
