@@ -30,17 +30,15 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: Advanced Optical Materials(2020)
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Nanoimaging and Nanospectroscopy of Polaritons with Time Resolved s-SNOM(2020)
-doi: ""
+title: Nanoimaging and Nanospectroscopy of Polaritons with Time Resolved s-SNOM
+doi: https://doi.org/10.1002/adom.201901042
 featured: true
 tags: []
 projects:
@@ -49,7 +47,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: "screenshot-2023-04-21-164716.png"
+  filename: featured.png
 date: 2023-04-21T20:35:50.208Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
