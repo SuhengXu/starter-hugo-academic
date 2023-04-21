@@ -21,7 +21,7 @@ authors:
 doi: https://doi.org/10.1103/PhysRevB.107.155413
 publication: Physical Review B
 abstract: We resolved both the Amplitude and phase signal on a WTe2
-  microcrystals using terahertz SNOM that utilizing broadband pulse sources
+  microcrystals using terahertz SNOM that utilizing broadband pulse sources.
 draft: false
 featured: false
 image:
