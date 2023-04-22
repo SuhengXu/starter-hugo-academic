@@ -24,6 +24,10 @@ abstract: We used Machine learning algorithm to extract wavelengths and quality
   factor in polaritonic images.
 draft: false
 featured: false
+tags:
+  - Deep Learning
+projects:
+  - Deep Learning
 image:
   filename: featured
   focal_point: Smart
