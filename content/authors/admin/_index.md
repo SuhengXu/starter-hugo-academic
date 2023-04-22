@@ -7,18 +7,13 @@ bio: My research interests include condensed matter physics, nano-optics,
   learning.
 interests: []
 social:
-  - display:
-    header: false
+  - icon: Email
     icon_pack: ai
     link: sx2277@columbia.edu
-    label: Email
-    icon: Email
-  - display:
-    header: false
-    link: https://scholar.google.com/citations?user=sI4DJ9sAAAAJ&hl=en&oi=ao
-    label: Google Scholar
+  - icon: google-scholar 
     icon_pack: ai
-    icon: Email
+    link: https://scholar.google.com/citations?user=sI4DJ9sAAAAJ&hl=en
+
 organizations:
   - name: Department of Physics, Columbia University
     url: https://physics.columbia.edu/
