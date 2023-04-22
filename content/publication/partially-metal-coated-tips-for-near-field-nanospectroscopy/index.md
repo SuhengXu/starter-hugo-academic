@@ -20,7 +20,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-21T22:28:17.886Z
+date: 2021-01-27T22:28:17.886Z
 ---
 Scanning probes with functional optical responses are key components of scanning near-field optical microscopes. For nanospectroscopy performed at IR and terahertz (THz) frequencies, one major challenge is that the commonly used metal-coated silicon tips yield nonadjustable coupling efficiency across the spectrum, which greatly limits the signal-to-noise ratio. Here, we test the possibility of a generic design scheme for wavelength-selective tip enhancement via finite-element numerical modeling. We employ a 
 Si
