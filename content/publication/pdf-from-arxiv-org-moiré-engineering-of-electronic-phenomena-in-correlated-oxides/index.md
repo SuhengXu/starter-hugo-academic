@@ -40,7 +40,7 @@ draft: false
 featured: false
 image:
   filename: FEATURED.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: true
 date: 2020-04-21T21:19:00.000Z
 ---
