@@ -1,7 +1,7 @@
 ---
 title: Machine Learning for Optical Scanning Probe Nanoscopy
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Xinzhong Chen
   - Suheng Xu
