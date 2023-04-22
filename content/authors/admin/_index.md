@@ -1,6 +1,6 @@
 ---
 title: Suheng Xu
-role: Graduate research assistance@ Columbia University in the City of New York
+role: Graduate research assistant@ Columbia University in the City of New York
 avatar_filename: AVATAR.png
 bio: My research interests include condensed matter physics, nano-optics,
   Terahertz nanoscopy, 2D material and strong correlated material and Machine
@@ -30,8 +30,9 @@ education:
     - institution: Columbia University, USA
       year: ""
       course: PhD candidate in Physics
-email: ""
-superuser: true
+email: sx2277@columbia.edu
+superuser: false
+user_groups: []
 highlight_name: true
 ---
 I am currently a graduate student working in Dmitri Basov's lab at Columbia university. My research in general is experimental condensed matter physics. I am trying to use optics and scanning probe microscopy to probe the excite material in the nanoscale
