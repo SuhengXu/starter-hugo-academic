@@ -11,6 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: Polaritonics
+      tag: Polaritonics
+    - name: Nano-THz
+      tag: Nano-THz
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
