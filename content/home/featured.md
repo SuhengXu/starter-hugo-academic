@@ -19,5 +19,5 @@ design:
 ---
 
 {{% callout note %}}
- [Full publications](./publication/).
+ [To see full publications, please click here](./publication/).
 {{% /callout %}}
