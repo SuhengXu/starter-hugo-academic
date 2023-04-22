@@ -9,7 +9,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: sx2277@columbia.edu
+    link: ''/#sx2277@columbia.edu'
   - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=sI4DJ9sAAAAJ&hl=en
