@@ -3,11 +3,11 @@ widget: pages
 widget_id: " "
 headless: true
 weight: 70
-title: All Publications
+title: Recent Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 0
+  count: 5
   offset: 0
   order: desc
   filters:
