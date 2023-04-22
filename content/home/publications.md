@@ -20,6 +20,3 @@ design:
   view: 3
 ---
 
-{{% callout note %}}
- [To see full publications, please click here](./publication/).
-{{% /callout %}}
