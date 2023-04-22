@@ -1,7 +1,7 @@
 ---
 title: Suheng Xu
 role: Graduate research assistance@ Columbia University in the City of New York
-avatar_filename: columbia_university_shield.svg.png
+avatar_filename: AVATAR.png
 bio: My research interests include condensed matter physics, nano-optics,
   Terahertz nanoscopy, 2D material and strong correlated material and Machine
   learning.
