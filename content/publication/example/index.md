@@ -16,7 +16,7 @@ abstract: The development of electronics and photonics is entering a new era of
   and probing of the tip or edge induced plasmon– and phonon–polaritons in
   low-dimensional systems. The detailed technical aspects of s-SNOM and its
   possible future development are also presented.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -40,9 +40,10 @@ url_video: ""
 title: Nanoimaging and Nanospectroscopy of Polaritons with Time Resolved s-SNOM
 doi: https://doi.org/10.1002/adom.201901042
 featured: true
-tags: []
+tags:
+  - Polaritonics
 projects:
-  - example
+  - Polaritonics
 image:
   caption: ""
   focal_point: ""
