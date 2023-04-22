@@ -7,7 +7,7 @@ bio: My research interests include condensed matter physics, nano-optics,
   learning.
 interests: []
 social:
-  - icon: icon: Email
+  - icon: envelope
     icon_pack: fas
     link: sx2277@columbia.edu
   - icon: google-scholar 
