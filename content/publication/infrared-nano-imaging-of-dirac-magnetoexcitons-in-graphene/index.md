@@ -52,7 +52,7 @@ abstract: Magnetic fields can have profound effects on the motion of electrons
 draft: false
 featured: true
 image:
-  filename: screenshot-2023-08-22-004151.png
+  filename: FEATURED.png
   focal_point: Smart
   preview_only: false
 date: 2023-08-22T04:35:45.706Z
