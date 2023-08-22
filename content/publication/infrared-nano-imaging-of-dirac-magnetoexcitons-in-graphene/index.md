@@ -47,7 +47,7 @@ abstract: Magnetic fields can have profound effects on the motion of electrons
   7 T. This nano-magneto-optics approach allows us to explore and manipulate
   magnetopolaritons in specimens with low carrier doping via harnessing high
   magnetic fields.
-draft: false
+draft: true
 featured: true
 image:
   filename: screenshot-2023-08-22-004151.png
