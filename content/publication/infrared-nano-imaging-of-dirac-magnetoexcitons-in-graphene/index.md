@@ -29,6 +29,8 @@ authors:
   - Xu Du
   - Mengkun Liu
 doi: https://doi.org/10.1038/s41565-023-01488-y
+publication: Nature nanotechnology
+publication_short: Nat. nano
 abstract: Magnetic fields can have profound effects on the motion of electrons
   in quantum materials. Two-dimensional electron systems subject to strong
   magnetic fields are expected to exhibit quantized Hall conductivity, chiral
@@ -47,7 +49,7 @@ abstract: Magnetic fields can have profound effects on the motion of electrons
   7 T. This nano-magneto-optics approach allows us to explore and manipulate
   magnetopolaritons in specimens with low carrier doping via harnessing high
   magnetic fields.
-draft: true
+draft: false
 featured: true
 image:
   filename: screenshot-2023-08-22-004151.png
