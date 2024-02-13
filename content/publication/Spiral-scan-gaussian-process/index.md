@@ -30,7 +30,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: Advanced Optical Materials(2020)
+publication: Nano Letter
 summary: ""
 url_dataset: ""
 url_project: ""
