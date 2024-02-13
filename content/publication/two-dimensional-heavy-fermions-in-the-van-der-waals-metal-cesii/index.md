@@ -2,8 +2,42 @@
 title: Two-dimensional heavy fermions in the van der Waals metal CeSiI
 publication_types:
   - "2"
-authors: []
+authors: 
+  - Victoria A. Posey
+  - Simon Turkel
+  - Mehdi Rezaee
+  - Aravind Devarakonda
+  - Asish K. Kundu
+  - Chin Shen Ong
+  - Morgan Thinel
+  - Daniel G. Chica
+  - Rocco A. Vitalone
+  - Ran Jing
+  - Suheng Xu
+  - David R. Needell
+  - Elena Meirzadeh
+  - Margalit L. Feuer
+  - Apoorv Jindal
+  - Xiaomeng Cui
+  - Tonica Valla
+  - Patrik Thunström
+  - Turgut Yilmaz
+  - Elio Vescovo
+  - David Graf
+  - Xiaoyang Zhu
+  - Allen Scheie
+  - Andrew F. May
+  - Olle Eriksson
+  - D. N. Basov
+  - Cory R. Dean
+  - Angel Rubio
+  - Philip Kim
+  - Michael E. Ziebel
+  - Andrew J. Millis
+  - Abhay N. Pasupathy
+  - Xavier Roy
 doi: "doi: 10.1038/s41586-023-06868-x"
+publication: Nature
 abstract: Heavy-fermion metals are prototype systems for observing emergent
   quantum phases driven by electronic interactions1–6. A long-standing
   aspiration is the dimensional reduction of these materials to exert control
@@ -31,5 +65,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-02-13T00:32:21.240Z
+date: 2024-01-17T00:32:21.240Z
 ---
