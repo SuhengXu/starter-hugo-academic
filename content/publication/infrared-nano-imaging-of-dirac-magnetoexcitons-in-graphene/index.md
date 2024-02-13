@@ -50,7 +50,7 @@ abstract: Magnetic fields can have profound effects on the motion of electrons
   magnetopolaritons in specimens with low carrier doping via harnessing high
   magnetic fields.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
