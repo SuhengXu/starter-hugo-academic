@@ -2,7 +2,7 @@
 title: Electronic interactions in Dirac fluids visualized by nano-terahertz
   spacetime mapping
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Suheng Xu
   - Yutao Li
@@ -42,5 +42,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-13T01:37:04.509Z
+date: 2024-02-13T01:37:04.509Z
 ---
