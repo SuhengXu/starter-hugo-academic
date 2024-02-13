@@ -17,7 +17,7 @@ promising platforms for precise nanoscale control and sensing of light-matter in
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Lukas Wehmeier
   - Suheng Xu

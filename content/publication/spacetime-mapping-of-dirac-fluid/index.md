@@ -3,7 +3,7 @@ abstract: Ultraclean graphene at charge neutrality hosts a quantum critical Dira
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Suheng Xu
   - Yutao Li
