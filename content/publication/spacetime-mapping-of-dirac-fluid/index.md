@@ -1,7 +1,5 @@
 ---
 abstract: Ultraclean graphene at charge neutrality hosts a quantum critical Dirac fluid of interacting electrons and holes. Interactions profoundly affect the charge dynamics of graphene, which is encoded in the properties of its collective modes: surface plasmon polaritons (SPPs). The group velocity and lifetime of SPPs have a direct correspondence with the reactive and dissipative parts of the tera-Hertz (THz) conductivity of the Dirac fluid. We succeeded in tracking the propagation of SPPs over sub-micron distances at femto-second (fs) time scales. Our experiments uncovered prominent departures from the predictions of the conventional Fermi-liquid theory. The deviations are particularly strong when the densities of electrons and holes are approximately equal. Our imaging methodology can be used to probe the electromagnetics of quantum materials other than graphene in order to provide fs-scale diagnostics under near-equilibrium conditions.
-slides: ""
-url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -25,6 +23,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+doi: https://arxiv.org/abs/2311.11502
 publication: Arxiv
 summary: ""
 url_dataset: ""
@@ -33,7 +32,6 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Electronic interactions in Dirac fluids visualized by nano-terahertz spacetime mapping
-doi: https://arxiv.org/abs/2311.11502
 featured: False
 tags:
   - Polaritonics
