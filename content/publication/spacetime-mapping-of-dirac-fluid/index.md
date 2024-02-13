@@ -3,13 +3,13 @@ abstract: Ultraclean graphene at charge neutrality hosts a quantum critical Dira
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Suheng Xu
-  - Yutao Li
+  - Yutao Li	
   - Rocco A. Vitalone
   - Ran Jing
-  - Aaron. J. Sternbach
+  - Aaron J. Sternbach
   - Shuai Zhang
   - Julian Ingham
   - Milan Delor
@@ -19,10 +19,9 @@ authors:
   - Andrew J. Millis
   - Michael M. Fogler
   - Cory R. Dean
-  - Abhay N. Pasupathy
   - James Hone
   - Mengkun Liu
-  - D.N. Basov 
+  - D.N. Basov
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -33,18 +32,21 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Electronic interactions in Dirac fluids visualized by nano-terahertz spacetime interference of electron-photon quasiparticles  
-doi: https://doi.org/10.48550/arXiv.2311.11502
-featured:true
-
+title: Electronic interactions in Dirac fluids visualized by nano-terahertz spacetime mapping
+doi: https://arxiv.org/abs/2311.11502
+featured: False
+tags:
+  - Polaritonics
+projects:
+  - Polaritonics
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2024-02-1T20:35:50.208Z
+date: 2024-02-20T20:35:50.208Z
 url_slides: ""
-publishDate: 2024-02-01T00:00:00.000Z
+publishDate: 2024-03-09T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
