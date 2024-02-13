@@ -41,7 +41,7 @@ authors:
   - Michael M. Fogler
   - D.N. Basov
   - Mengkun Liu
-author_notes:
+
 
 publication: Arxiv
 summary: ""
