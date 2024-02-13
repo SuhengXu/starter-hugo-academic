@@ -54,10 +54,9 @@ title: Nano-Imaging of Landau-Phonon Polaritons in Dirac Heterostructures
 doi: https://doi.org/10.48550/arXiv.2312.14093
 featured: true
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
   filename: featured.png
+  focal_point: Smart
+  preview_only: false
 date: 2024-02-12T20:35:50.208Z
 url_slides: ""
 publishDate: 2024-02-012T00:00:00.000Z
