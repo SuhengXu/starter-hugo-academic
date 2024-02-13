@@ -41,9 +41,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2024-03-1T20:35:50.208Z
+date: 2024-02-1T20:35:50.208Z
 url_slides: ""
-publishDate: 2024-03-01T00:00:00.000Z
+publishDate: 2024-02-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
