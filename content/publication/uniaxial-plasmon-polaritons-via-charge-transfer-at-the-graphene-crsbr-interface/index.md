@@ -1,8 +1,36 @@
 ---
 title: Uniaxial plasmon polaritons via charge transfer at the graphene/CrSBr interface
 publication_types:
-  - "3"
-authors: []
+  - "2"
+authors: 
+  - Daniel J. Rizzo
+  - Eric Seewald
+  - Fangzhou Zhao
+  - Jordan Cox
+  - Kaichen Xie
+  - Rocco A. Vitalone
+  - Francesco L. Ruta
+  - Daniel G. Chica
+  - Yinming Shao
+  - Sara Shabani
+  - Evan J. Telford
+  - Matthew C. Strasbourg
+  - Thomas P. Darlington
+  - Suheng Xu
+  - Siyuan Qiu
+  - Aravind Devarakonda
+  - Takashi Taniguchi
+  - Kenji Watanabe
+  - Xiaoyang Zhu
+  - P. James Schuck
+  - Cory R. Dean
+  - Xavier Roy
+  - Andrew J. Millis
+  - Ting Cao
+  - Angel Rubio
+  - Abhay N. Pasupathy
+  - D.N. Basov
+  
 doi: arXiv:2407.07178
 publication: Arxiv
 abstract: Graphene is a privileged 2D platform for hosting confined light-matter
