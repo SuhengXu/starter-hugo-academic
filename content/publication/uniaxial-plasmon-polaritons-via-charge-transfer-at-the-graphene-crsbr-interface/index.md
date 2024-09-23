@@ -30,7 +30,6 @@ authors:
   - Angel Rubio
   - Abhay N. Pasupathy
   - D.N. Basov
-  
 doi: arXiv:2407.07178
 publication: Arxiv
 abstract: Graphene is a privileged 2D platform for hosting confined light-matter
