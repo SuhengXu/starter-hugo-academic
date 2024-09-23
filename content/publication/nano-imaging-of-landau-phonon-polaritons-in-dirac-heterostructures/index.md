@@ -1,7 +1,7 @@
 ---
-title: Nano-Imaging of Landau-Phonon Polaritons in Dirac Heterostructures
+title: Landau-Phonon Polaritons in Dirac Heterostructures
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Lukas Wehmeier
   - Suheng Xu
@@ -25,8 +25,8 @@ authors:
   - Michael M Fogler
   - DN Basov
   - Mengkun Liu
-doi: " https://doi.org/10.48550/arXiv.2312.14093"
-publication: Arxiv
+doi: https://www.science.org/doi/full/10.1126/sciadv.adp3487
+publication: ScienceAdvances
 abstract: 'Polaritons are light-matter quasiparticles that govern the optical
   response of quantum materials and enable their nanophotonic applications. We
   have studied a new type of polaritons arising in magnetized graphene
@@ -51,5 +51,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-02-11T01:40:37.290Z
+date: 2024-09-23T03:10:44.156Z
 ---
