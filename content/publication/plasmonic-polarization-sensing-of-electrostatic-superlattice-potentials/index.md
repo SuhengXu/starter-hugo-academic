@@ -2,6 +2,25 @@
 title: Plasmonic polarization sensing of electrostatic superlattice potentials
 publication_types:
   - "3"
+authors:
+  - Shuai Zhang
+  - Jordan Fonseca
+  - Daniel Bennett
+  - Zhiyuan Sun
+  - Junhe Zhang
+  - Ran Jing
+  - Suheng Xu
+  - Leo He
+  - S.L. Moore
+  - S.E.Rossi
+  - Dmitry Ovchinnikov
+  - David Cobden
+  - Pablo. Jarillo-Herrero
+  - M.M. Fogler
+  - Philip Kim
+  - Efthimios Kaxiras
+  - Xiaodong Xu
+  - D.N. Basov
 doi: arXiv:2406.18028
 publication: Arxiv
 abstract: Plasmon polaritons are formed by coupling light with delocalized
