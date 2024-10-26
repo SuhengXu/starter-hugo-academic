@@ -3,7 +3,23 @@ title: Charge Transfer Plasmonics in Bespoke Graphene/a-RuCl3 Cavities
 publication_types:
   - "2"
 authors:
-  - Rocco
+  - Rocco A. Vitalone
+  - Bjarke S. Jessen
+  - Ran Jing
+  - Daniel J. Rizzo
+  - Suheng Xu
+  - Valerie Hsieh
+  - Matthew Cothrine
+  - David G. Mandrus
+  - Lukas Wehmeier
+  - G. Lawrence Carr
+  - Valentina Bisogni
+  - Cory R. Dean
+  - James C. Hone
+  - Mengkun Liu
+  - Michael I. Weinstein
+  - Michael M. Fogler
+  - D. N. Basov
 doi: https://pubs.acs.org/doi/10.1021/acsnano.4c08441
 publication: ACS Nano
 abstract: Surface plasmon polaritons (SPPs) provide a window into the
