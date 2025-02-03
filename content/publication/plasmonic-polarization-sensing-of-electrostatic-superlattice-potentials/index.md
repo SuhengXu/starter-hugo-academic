@@ -21,8 +21,8 @@ authors:
   - Efthimios Kaxiras
   - Xiaodong Xu
   - D.N. Basov
-doi: arXiv:2406.18028
-publication: Arxiv
+doi: https://doi.org/10.1103/PhysRevX.15.011019
+publication: Physical review X
 abstract: Plasmon polaritons are formed by coupling light with delocalized
   electrons. The half-light and half-matter nature of plasmon polaritons endows
   them with unparalleled tunability via a range of parameters, such as
@@ -51,5 +51,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-09-23T03:15:11.739Z
+date: 2025-02-01T03:15:11.739Z
 ---
