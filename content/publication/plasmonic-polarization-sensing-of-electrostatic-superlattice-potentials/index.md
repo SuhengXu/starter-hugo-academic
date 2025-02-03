@@ -1,7 +1,7 @@
 ---
 title: Plasmonic polarization sensing of electrostatic superlattice potentials
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Shuai Zhang
   - Jordan Fonseca
