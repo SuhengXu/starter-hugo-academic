@@ -1,5 +1,5 @@
 ---
-title: Uniaxial plasmon polaritons via charge transfer at the graphene/CrSBr interface
+title: Engineering anisotropic electrodynamics at the graphene/CrSBr interface
 publication_types:
   - "2"
 authors: 
@@ -30,8 +30,8 @@ authors:
   - Angel Rubio
   - Abhay N. Pasupathy
   - D.N. Basov
-doi: arXiv:2407.07178
-publication: Arxiv
+doi: arXiv:https://doi.org/10.1038/s41467-025-56804-y
+publication: Nature communications
 abstract: Graphene is a privileged 2D platform for hosting confined light-matter
   excitations known as surface plasmon-polaritons (SPPs), as it possesses low
   intrinsic losses with a high degree of optical confinement. However, the
@@ -57,5 +57,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-09-23T03:12:52.796Z
+date: 2025-02-21T03:12:52.796Z
 ---
