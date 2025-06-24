@@ -29,4 +29,4 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am currently a graduate student working in Dmitri Basov's lab at Columbia university. My research in general is experimental condensed matter physics. I am trying to use optics and scanning probe microscopy to probe and excite material in the nanoscale
+I’m a PhD candidate in the Physics Department at Columbia University, where I pursue experimental condensed-matter research. My work focuses on imaging quasiparticles and collective excitations in space and time.
