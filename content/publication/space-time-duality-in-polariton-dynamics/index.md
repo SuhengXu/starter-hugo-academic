@@ -2,7 +2,23 @@
 title: Space-time duality in polariton dynamics
 publication_types:
   - "3"
-authors: []
+authors: 
+  - Suheng Xu
+  - Seunghwi Kim
+  - Rocco A. Vitalone
+  - Birui Yang
+  - Josh Swann
+  - Enrico M. Renzi
+  - Yuchen Lin
+  - Taketo Handa
+  - Xiaoyang Zhu
+  - James Hone
+  - Cory Dean
+  - Andrea Cavalleri
+  - M. M. Fogler
+  - Andrew J. Millis
+  - Andrea Alu
+  - D. N. Basov
 doi: https://arxiv.org/abs/2506.18224
 abstract: The spatial and temporal dynamics of wave propagation are intertwined.
   A common manifestation of this duality emerges in the spatial and temporal
