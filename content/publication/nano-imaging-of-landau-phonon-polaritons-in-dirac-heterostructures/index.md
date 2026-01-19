@@ -46,7 +46,7 @@ abstract: 'Polaritons are light-matter quasiparticles that govern the optical
   promising platforms for precise nanoscale control and sensing of light-matter
   interaction.'
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
