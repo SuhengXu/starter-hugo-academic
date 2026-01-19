@@ -3,7 +3,7 @@ title: Plasmon dynamics in graphene
 publication_types:
   - "0"
   - "3"
-Authors:
+authors:
   - Suheng Xu
   - Birui Yang
   - Nishchhal Verma
