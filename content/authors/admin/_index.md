@@ -29,4 +29,4 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I’m a PhD candidate in the Physics Department at Columbia University, where I pursue experimental condensed-matter research. My work focuses on imaging quasiparticles and collective excitations in space and time.
+I am a PhD candidate in the Physics Department at Columbia University, working in experimental condensed-matter physics. I develop and apply advanced imaging approaches to visualize quasiparticles and collective excitations in space and time.
