@@ -1,0 +1,10 @@
+// Give publication schematics more prominence in the compact listing.
+.media.stream-item img {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item img {
+    max-width: 120px;
+  }
+}
